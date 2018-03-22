@@ -11,8 +11,8 @@ tags:
 - Stack Network
 - Partners
 - Google APIs
-created: "2018-03-15"
-modified: "2018-03-15"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-partners/master/_listings/google-partners/apis.yaml
 specificationVersion: "0.14"
 apis:
