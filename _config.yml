@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-partners.api.streamdata.gallery
+title: Streamdata Gallery Google Partners
+url: google-partners.streamdata.gallery
 tag: Google Partners
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-partners
 github_branch: master
 collections:
